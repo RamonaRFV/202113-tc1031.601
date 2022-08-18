@@ -1,4 +1,5 @@
 = Tc1031.601 Programación de estructuras de datos y algoritmos fundamentales
+Ariel Ortiz, https://github.com/ariel-ortiz/202113-tc1031.601
 
 _Tecnológico de Monterrey, Estado de México._
 
